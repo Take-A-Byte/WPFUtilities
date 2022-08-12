@@ -12,6 +12,7 @@
     <PackageIcon>utilities.png</PackageIcon>
     <PackageReleaseNotes>- BindableBase (INotifyPropertyChanged)
 - RelayCommand</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
