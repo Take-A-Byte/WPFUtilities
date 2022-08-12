@@ -4,10 +4,22 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <PackageProjectUrl>https://github.com/Take-A-Byte/WPFUtilities</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Take-A-Byte/WPFUtilities</RepositoryUrl>
+    <PackageTags>WPF;Utilities;CommonUtilities;QuickStart</PackageTags>
+    <Authors>ShantanuMethikar</Authors>
+    <Company>TakeAByte</Company>
+    <PackageIcon>utilities.png</PackageIcon>
+    <PackageReleaseNotes>- BindableBase (INotifyPropertyChanged)
+- RelayCommand</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="C:\Users\lenovo\Downloads\utilities.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
